@@ -11,6 +11,9 @@
 
 ![image](https://github.com/user-attachments/assets/3d1b8cba-d99d-4720-b74f-afac694bfc6e)
 ![image](https://github.com/user-attachments/assets/88267a8b-6144-4f2f-ad0e-570611b25e06)
+![image](https://github.com/user-attachments/assets/511795d8-5821-487c-9236-6dd0c2bd290c)
+![image](https://github.com/user-attachments/assets/88e20fb1-a1d7-4752-b7f2-48d652670d88)
+
 # Conclusion
 “points per game” is the single most important stats in NBA, and not surprisingly, it alone could explain 48% of the difference in salary among players.
 Moving forward, I plan to split the dataset between star players and role players. I also intend to try different regression models to try to improve the effectiveness of the models.
