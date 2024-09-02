@@ -1,8 +1,10 @@
 # NBA-Analytics-project
---The aim of my project is to value NBA players. By constructing a fairly accurate model, I can identify undervalued and overvalued players and make suggestions to managers.<br />
---The time frame of this project is from the 2005 season to the present season. With 8332 entries and 55 attributes. The attributes are listed below. Some are from the original data source while others are self constructed<br />
---Conclusion: “points per game” is the single most important stats in NBA, and not surprisingly, it alone could explain 48% of the difference in salary among players.
-Moving forward, I plan to split the dataset between star players and role players. I also intend to try different regression models to try to improve the effectiveness of the models.
+--The aim of my project is to value NBA players. By constructing a regression model, I hope to identify undervalued and overvalued players and gain better understanding of how NBA players are valued.<br />
+--The time frame of this project is from the 2005 - 2024 season. With 8332 entries and 55 attributes. <br />
+--Conclusion:  <br />
+1. “points per game” is the single most important stats in NBA, it alone could explain 48% of the difference in salary among players. <br />
+2. 37% of variance is not captured with game related data points, my hypothesis is business related value like fan base and popularity.
+
 ## Attributes
 ![image](https://github.com/user-attachments/assets/2ca7ba88-c7c1-4ef9-a398-f431b3470869)
 ## Data exploration
